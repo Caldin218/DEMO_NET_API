@@ -1,0 +1,15 @@
+D:\Project (.NET)\News_Management.Application\bin\Debug\net8.0\News_Management.Application.deps.json
+D:\Project (.NET)\News_Management.Application\bin\Debug\net8.0\News_Management.Application.dll
+D:\Project (.NET)\News_Management.Application\bin\Debug\net8.0\News_Management.Application.pdb
+D:\Project (.NET)\News_Management.Application\obj\Debug\net8.0\News_Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project (.NET)\News_Management.Application\obj\Debug\net8.0\News_Management.Application.AssemblyInfoInputs.cache
+D:\Project (.NET)\News_Management.Application\obj\Debug\net8.0\News_Management.Application.AssemblyInfo.cs
+D:\Project (.NET)\News_Management.Application\obj\Debug\net8.0\News_Management.Application.csproj.CoreCompileInputs.cache
+D:\Project (.NET)\News_Management.Application\obj\Debug\net8.0\News_Management.Application.dll
+D:\Project (.NET)\News_Management.Application\obj\Debug\net8.0\refint\News_Management.Application.dll
+D:\Project (.NET)\News_Management.Application\obj\Debug\net8.0\News_Management.Application.pdb
+D:\Project (.NET)\News_Management.Application\obj\Debug\net8.0\ref\News_Management.Application.dll
+D:\Project (.NET)\News_Management.Application\bin\Debug\net8.0\News_Management.Domain.dll
+D:\Project (.NET)\News_Management.Application\bin\Debug\net8.0\News_Management.Domain.pdb
+D:\Project (.NET)\News_Management.Application\obj\Debug\net8.0\News_Management.Application.csproj.AssemblyReference.cache
+D:\Project (.NET)\News_Management.Application\obj\Debug\net8.0\News_Man.3FB1A589.Up2Date

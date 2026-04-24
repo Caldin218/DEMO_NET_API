@@ -1,0 +1,11 @@
+D:\Project (.NET)\News_Management.Domain\bin\Debug\net8.0\News_Management.Domain.deps.json
+D:\Project (.NET)\News_Management.Domain\bin\Debug\net8.0\News_Management.Domain.dll
+D:\Project (.NET)\News_Management.Domain\bin\Debug\net8.0\News_Management.Domain.pdb
+D:\Project (.NET)\News_Management.Domain\obj\Debug\net8.0\News_Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project (.NET)\News_Management.Domain\obj\Debug\net8.0\News_Management.Domain.AssemblyInfoInputs.cache
+D:\Project (.NET)\News_Management.Domain\obj\Debug\net8.0\News_Management.Domain.AssemblyInfo.cs
+D:\Project (.NET)\News_Management.Domain\obj\Debug\net8.0\News_Management.Domain.csproj.CoreCompileInputs.cache
+D:\Project (.NET)\News_Management.Domain\obj\Debug\net8.0\News_Management.Domain.dll
+D:\Project (.NET)\News_Management.Domain\obj\Debug\net8.0\refint\News_Management.Domain.dll
+D:\Project (.NET)\News_Management.Domain\obj\Debug\net8.0\News_Management.Domain.pdb
+D:\Project (.NET)\News_Management.Domain\obj\Debug\net8.0\ref\News_Management.Domain.dll
